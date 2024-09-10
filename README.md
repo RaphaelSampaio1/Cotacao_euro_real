@@ -1,7 +1,3 @@
-Aqui está o README com os cabeçalhos e formatações apropriadas, incluindo `##` para os subtítulos:
-
----
-
 # Cotação do Euro - Monitoramento e Notificação
 
 Este projeto é um script Python que monitora a cotação do Euro em relação ao Real e envia uma notificação por e-mail quando a cotação atende a certos critérios. O script utiliza **Selenium** para realizar a raspagem de dados e o módulo `smtplib` para enviar e-mails com uma captura de tela da cotação.
