@@ -53,11 +53,11 @@ class Cotacao:
         # Configurações do servidor SMTP
         server_smtp = "smtp-mail.outlook.com"
         port = 587
-        sender_email = "raphaelsantos.jan@gmail.com"
-        password = "24raphael01"
+        sender_email = "seuemail@gmail.com"
+        password = "sua senha"
 
         # Configurações do e-mail
-        receive_email = "raphaelsantos.jan@gmail.com"
+        receive_email = "EmailDeEnvio@gmail.com"
         subject = "Cotação do Euro Caiu!"
         
         # Corpo do e-mail
